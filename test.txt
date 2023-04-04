@@ -1,1 +1,1 @@
-Hello!, welcoe to Git Hub Tutorial.
+Hello!, welcoe to Git Hub Tutorial. In the next few min i a learning commit and push
